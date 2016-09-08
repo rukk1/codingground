@@ -1,0 +1,5 @@
+print "This is a backslash \\."
+print "This is a single-quote \'."
+print "This is a double-quote \"."
+print "What's the difference between\nnewline and \nblank line\rcarriage return?"
+print "\tIndended text"
